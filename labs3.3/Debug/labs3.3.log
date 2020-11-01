@@ -1,0 +1,9 @@
+﻿  labs3.3.cpp
+C:\Users\Acer\source\repos\labs3.3\labs3.3\labs3.3.cpp(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Acer\source\repos\labs3.3\labs3.3\labs3.3.cpp(20,29): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\Acer\source\repos\labs3.3\labs3.3\labs3.3.cpp(23,28): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\Acer\source\repos\labs3.3\labs3.3\labs3.3.cpp(26,37): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\Acer\source\repos\labs3.3\labs3.3\labs3.3.cpp(29,35): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\Acer\source\repos\labs3.3\labs3.3\labs3.3.cpp(32,57): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\Acer\source\repos\labs3.3\labs3.3\labs3.3.cpp(35,75): warning C4804: '<=': unsafe use of type 'bool' in operation
+  labs3.3.vcxproj -> C:\Users\Acer\source\repos\labs3.3\Debug\labs3.3.exe
